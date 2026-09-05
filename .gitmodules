@@ -1,0 +1,21 @@
+[submodule "Jeffallan-claude-skills"]
+	path = Jeffallan-claude-skills
+	url = ./Jeffallan-claude-skills/
+[submodule "agents-cli"]
+	path = agents-cli
+	url = ./agents-cli
+[submodule "astral-claude-code-plugins"]
+	path = astral-claude-code-plugins
+	url = ./astral-claude-code-plugins
+[submodule "cc-skills-golang"]
+	path = cc-skills-golang
+	url = ./cc-skills-golang/
+[submodule "fastapi"]
+	path = fastapi
+	url = ./fastapi/
+[submodule "go-modern-guidelines"]
+	path = go-modern-guidelines
+	url = ./go-modern-guidelines/
+[submodule "pydantic"]
+	path = pydantic
+	url = ./pydantic/
